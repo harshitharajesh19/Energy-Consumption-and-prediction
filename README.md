@@ -44,6 +44,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn jupyter streamlit jobli
 
 ## Dataset
 The model requires an energy consumption dataset. Ensure the dataset is placed in the project directory and properly referenced in the notebook.
+[Download Dataset](https://drive.google.com/file/d/10I4ZW_4Cnh1Yqi82ew4Od7I6ezzgOXxw/view?usp=sharing)
 
 ## Model Training
 The notebook walks through the process of loading data, preprocessing, training a machine learning model, and evaluating its performance using various metrics such as RMSE, MAE, and R² score.
